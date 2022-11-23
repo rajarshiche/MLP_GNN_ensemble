@@ -1,4 +1,5 @@
-### Thi script models and runs a 3D GNN-based network architecture to predict logp values of molecules
+### This script models and runs a 3D GNN-based network architecture to predict logp values of molecules
+
 # Importing necessary packages
 import time
 start_time = time.time()
