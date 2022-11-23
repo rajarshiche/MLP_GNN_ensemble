@@ -1,3 +1,4 @@
+### This script models and runs a 2D GNN-based network architecture to predict logp values of molecules
 
 # Importing necessary packages
 import time
