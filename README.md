@@ -13,7 +13,8 @@ Usage
 1. Download or make a clone of the repository
 2. Make a new conda environment using the environment file 'mlp_gnn.yml'
 3. Run the GNN or MLP-GNN hybrid python files directly using a python IDE or from command line
-example: python 3D_GNN_hybrid_mod_logp_with_MW_with_partial_shannon_in_MLP_-2_-4_layers.py
+
+Example: python 3D_GNN_hybrid_mod_logp_with_MW_with_partial_shannon_in_MLP_-2_-4_layers.py
 
 Notes
 -----
