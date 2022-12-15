@@ -2,7 +2,7 @@
 
 Harnessing Shannon entropy of molecular symbols in deep neural networks to enhance prediction accuracy
 ------------------------------------------------------------------------------------------------------
-This repository holds the codes for Fig. 3 of 'Harnessing Shannon entropy of molecular symbols in deep neural networks to enhance prediction accuracy'. 
+This repository holds the codes pertaining to Fig. 3 of the article 'Harnessing Shannon entropy of molecular symbols in deep neural networks to enhance prediction accuracy'. 
 
 Description
 -----------
